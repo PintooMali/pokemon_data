@@ -1,6 +1,95 @@
-{"pokemon":[{
-"id":1,
-"name":"Bulbasaur",
-"Type":"grass"
-}]
+{
+    "pokemon": [{
+            "id": 1,
+            "name": "Bulbasaur",
+            "Type": "Grass & Poison"
+        },
+        {
+            "id": 2,
+            "name": "Ivysaur",
+            "Type": "Grass and Poison"
+        },
+        {
+            "id": 3,
+            "name": "Venusaur",
+            "Type": "Grass and Poison"
+        },
+        {
+            "id": 4,
+            "name": "Charmender",
+            "Type": "Fire"
+        },
+        {
+            "id": 5,
+            "name": "Charmeleon",
+            "Type": "Fire"
+        },
+        {
+            "id": 6,
+            "name": "Charizard",
+            "Type": "Fire & Flying"
+        },
+        {
+            "id": 7,
+            "name": "Squirtle",
+            "Type": "Water"
+        },
+        {
+            "id": 8,
+            "name": "Wartortle",
+            "Type": "Water"
+        },
+        {
+            "id": 9,
+            "name": "Blastoise",
+            "Type": "Grass"
+        },
+        {
+            "id": 10,
+            "name": "Caterpie",
+            "Type": "Bug"
+        },
+        {
+            "id": 11,
+            "name": "Metapod",
+            "Type": "Bug"
+        },
+        {
+            "id": 12,
+            "name": "Butterfree",
+            "Type": "Bug & Flying"
+        },
+        {
+            "id": 13,
+            "name": "Weedle",
+            "Type": "Bug"
+        },
+        {
+            "id": 14,
+            "name": "Kakuna",
+            "Type": "Bug"
+        },
+        {
+            "id": 15,
+            "name": "Beedrill",
+            "Type": "Bug"
+        },
+        {
+            "id": 16,
+            "name": "Pidgey",
+            "Type": "Normal & Flying"
+        },
+        {
+            "id": 17,
+            "name": "Pidgeotto",
+            "Type": "Normal & Flying"
+        },
+        {
+            "id":18,
+            "name":"Pidgeotto",
+            "Type":"Normal & Flying"
+
+        }
+
+    ]
 }
