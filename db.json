@@ -754,6 +754,252 @@
             "id": 151,
             "name": "Mew",
             "Type": "Psychic"
+        },
+                    "name": "Houndour",
+            "Type": "Dark & Fire"
+        },
+        {
+            "id": 229,
+            "name": "Houndoom",
+            "Type": "Dark & Fire"
+        },
+        {
+            "id": 230,
+            "name": "Kingdra",
+            "Type": "Water & Dragon"
+        },
+        {
+            "id": 231,
+            "name": "Phanpy",
+            "Type": "Ground"
+        },
+        {
+            "id": 232,
+            "name": "Donphan",
+            "Type": "Ground"
+        },
+        {
+            "id": 233,
+            "name": "Porygon2",
+            "Type": "Normal"
+        },
+        {
+            "id": 234,
+            "name": "Stantler",
+            "Type": "Normal"
+        },
+        {
+            "id": 235,
+            "name": "Smeargle",
+            "Type": "Normal"
+        },
+        {
+            "id": 236,
+            "name": "Tyrogue",
+            "Type": "Fighting"
+        },
+        {
+            "id": 237,
+            "name": "Hitmontop",
+            "Type": "Fighting"
+        },
+        {
+            "id": 238,
+            "name": "Smoochum",
+            "Type": "Ice & Psychic"
+        },
+        {
+            "id": 239,
+            "name": "Elekid",
+            "Type": "Electric"
+        },
+        {
+            "id": 240,
+            "name": "Magby",
+            "Type": "Fire"
+        },
+        {
+            "id": 241,
+            "name": "Miltank",
+            "Type": "Normal"
+        },
+        {
+            "id": 242,
+            "name": "Blissey",
+            "Type": "Normal"
+        },
+        {
+            "id": 243,
+            "name": "Raikou",
+            "Type": "Electric"
+        },
+        {
+            "id": 244,
+            "name": "Entei",
+            "Type": "Fire"
+        },
+        {
+            "id": 245,
+            "name": "Suicune",
+            "Type": "Water"
+        },
+        {
+            "id": 246,
+            "name": "Larvitar",
+            "Type": "Rock & Ground"
+        },
+        {
+            "id": 247,
+            "name": "Pupitar",
+            "Type": "Rock & Ground"
+        },
+        {
+            "id": 248,
+            "name": "Tyranitar",
+            "Type": "Rock & Dark"
+        },
+        {
+            "id": 249,
+            "name": "Lugia",
+            "Type": "Psychic & Flying"
+        },
+        {
+            "id": 250,
+            "name": "Ho-Oh",
+            "Type": "Fire & Flying"
+        },
+        {
+            "id": 251,
+            "name": "Celebi",
+            "Type": "Psychic & Grass"
+        },
+                    "name": "Gholdengo",
+            "Type": "Steel & Ghost"
+        },
+        {
+            "id": 1001,
+            "name": "Wo-Chien",
+            "Type": "Dark & Grass"
+        },
+        {
+            "id": 1002,
+            "name": "Chien-Pao",
+            "Type": "Dark & Ice"
+        },
+        {
+            "id": 1003,
+            "name": "Ting-Lu",
+            "Type": "Dark & Ground"
+        },
+        {
+            "id": 1004,
+            "name": "Chi-Yu",
+            "Type": "Dark & Fire"
+        },
+        {
+            "id": 1005,
+            "name": "Roaring Moon",
+            "Type": "Dragon & Dark"
+        },
+        {
+            "id": 1006,
+            "name": "Iron Valiant",
+            "Type": "Fairy & Fighting"
+        },
+        {
+            "id": 1007,
+            "name": "Koraidon",
+            "Type": "Fighting & Dragon"
+        },
+        {
+            "id": 1008,
+            "name": "Miraidon",
+            "Type": "Electric & Dragon"
+        },
+        {
+            "id": 1009,
+            "name": "Walking Wake",
+            "Type": "Water & Dragon"
+        },
+        {
+            "id": 1010,
+            "name": "Iron Leaves",
+            "Type": "Grass & Psychic"
+        },
+        {
+            "id": 1011,
+            "name": "Dipplin",
+            "Type": "Grass & Dragon"
+        },
+        {
+            "id": 1012,
+            "name": "Poltchageist",
+            "Type": "Grass & Ghost"
+        },
+        {
+            "id": 1013,
+            "name": "Sinistcha",
+            "Type": "Grass & Ghost"
+        },
+        {
+            "id": 1014,
+            "name": "Okidogi",
+            "Type": "Poison & Fighting"
+        },
+        {
+            "id": 1015,
+            "name": "Munkidori",
+            "Type": "Poison & Psychic"
+        },
+        {
+            "id": 1016,
+            "name": "Fezandipiti",
+            "Type": "Poison & Fairy"
+        },
+        {
+            "id": 1017,
+            "name": "Ogerpon",
+            "Type": "Grass"
+        },
+        {
+            "id": 1018,
+            "name": "Archaludon",
+            "Type": "Steel & Dragon"
+        },
+        {
+            "id": 1019,
+            "name": "Hydrapple",
+            "Type": "Grass & Dragon"
+        },
+        {
+            "id": 1020,
+            "name": "Gouging Fire",
+            "Type": "Fire & Dragon"
+        },
+        {
+            "id": 1021,
+            "name": "Raging Bolt",
+            "Type": "Electric & Dragon"
+        },
+        {
+            "id": 1022,
+            "name": "Iron Boulder",
+            "Type": "Rock & Psychic"
+        },
+        {
+            "id": 1023,
+            "name": "Iron Crown",
+            "Type": "Steel & Psychic"
+        },
+        {
+            "id": 1024,
+            "name": "Terapagos",
+            "Type": "Normal"
+        },
+        {
+            "id": 1025,
+            "name": "Pecharunt",
+            "Type": "Poison & Ghost"
         }
     ]
 }
